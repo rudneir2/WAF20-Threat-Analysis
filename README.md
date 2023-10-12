@@ -1,4 +1,4 @@
-# WAF20 Threat Analysis
+# WAF20 - Threat Analysis
 
 **NOTE:** 
 This content below is supposed to be part of the WAF 20 document, to be embedded in the chapter "WAF>Security>Design>Applications and Services>Threat Analysis".
@@ -20,7 +20,7 @@ As we may consider any type of solution development into the **threat analysis**
 
 **NOTE:**
 If you'd like to understand more about any solution described in the diagram, including acronyms, please refer to this table of contents, from the Baseline chapter.
-(link here)
+(table to be built)
 
 Let's consider the following:
 
