@@ -35,4 +35,4 @@ All the services mentioned above may be used with the **Threat Modeling** to red
 
 See more details about **Threat Analysis** and **Threat modeling** below.
 
-**here we would add the current draft content**
+**from this point, we would add the current draft content**
