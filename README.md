@@ -16,7 +16,7 @@ In this use case, we are considering an IT environment, the reference presented 
 
 As we may consider any type of solution development into the **threat analysis** model, such as applications, databases, and other services available in the cloud, we may consider different components and workloads as examples, that is the reason we have below a common IT environment with some components explained below.
 
-![image](https://github.com/rudneir2/WAF20-Threat-Analysis/assets/97529152/361fe17d-81d2-457a-8939-6c418129795a)
+![image](https://github.com/rudneir2/WAF20-Threat-Analysis/assets/97529152/f70123bb-035e-43a5-a2f3-e635bba759ca)
 
 **NOTE:**
 If you'd like to understand more about any solution described in the diagram, including acronyms, please refer to this table of contents, from the Baseline chapter.
